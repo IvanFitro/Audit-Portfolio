@@ -17,4 +17,5 @@ All the vulnerabilities I identified in Code4rena, Sherlock, and CodeHawks.
 ## CodeHawks
 1. https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/860
 ### MorpheusAI
+1. https://www.codehawks.com/report/clrzgrole0007xtsq0gfdw8if#L-04
 
