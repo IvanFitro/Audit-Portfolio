@@ -5,6 +5,8 @@ All the vulnerabilities I identified in Code4rena, Sherlock, and CodeHawks.
 1. https://github.com/code-423n4/2023-10-ethena-findings/blob/main/data/Fitro-Q.md
 ### NextGen
 1. https://github.com/code-423n4/2023-10-nextgen-findings/issues/320
+### PoolTogether
+1. https://github.com/code-423n4/2024-03-pooltogether-findings/issues/142
 ## Sherlock
 ### DODO GSP
 1. https://github.com/sherlock-audit/2023-12-dodo-gsp-judging/issues/56
