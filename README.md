@@ -24,5 +24,8 @@ All the vulnerabilities I identified in Code4rena, Sherlock, and CodeHawks.
 ### MorpheusAI
 1. https://www.codehawks.com/submissions/clrzgrole0007xtsq0gfdw8if/121
 
+### Beanstalk  - Beanstalk Part 2
+1. https://www.codehawks.com/submissions/clu7665bs0001fmt5yahc8tyh/15
+
 
 
