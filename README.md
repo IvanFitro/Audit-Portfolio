@@ -18,6 +18,8 @@ All the vulnerabilities I identified in Code4rena, Sherlock, and CodeHawks.
 1. https://github.com/sherlock-audit/2024-01-telcoin-judging/issues/33
 2. https://github.com/sherlock-audit/2024-01-telcoin-judging/issues/18
 3. https://github.com/sherlock-audit/2024-01-telcoin-judging/issues/6
+## Teller Finance
+1. https://github.com/sherlock-audit/2024-04-teller-finance-judging/issues/81
 ## CodeHawks
 ### Foundry DeFi StableCoin
 1. https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/860
