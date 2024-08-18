@@ -9,6 +9,8 @@ All the vulnerabilities I identified in Code4rena, Sherlock, and CodeHawks.
 1. https://github.com/code-423n4/2024-03-pooltogether-findings/issues/142
 ### Althea Liquid Infrastructure
 1. https://github.com/code-423n4/2024-02-althea-liquid-infrastructure-findings/issues/264
+### Munchables
+1. https://github.com/code-423n4/2024-07-munchables-findings/issues/103
 ## Sherlock
 ### DODO GSP
 1. https://github.com/sherlock-audit/2023-12-dodo-gsp-judging/issues/56
