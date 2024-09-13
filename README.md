@@ -11,6 +11,13 @@ All the vulnerabilities I identified in Code4rena, Sherlock, and CodeHawks.
 1. https://github.com/code-423n4/2024-02-althea-liquid-infrastructure-findings/issues/264
 ### Munchables
 1. https://github.com/code-423n4/2024-07-munchables-findings/issues/103
+### TraitForge
+1. https://github.com/code-423n4/2024-07-traitforge-findings/issues/993
+2. https://github.com/code-423n4/2024-07-traitforge-validation/issues/86
+3. https://github.com/code-423n4/2024-07-traitforge-validation/issues/86
+4. https://github.com/code-423n4/2024-07-traitforge-validation/issues/102
+5. https://github.com/code-423n4/2024-07-traitforge-findings/issues/890
+6. https://github.com/code-423n4/2024-07-traitforge-findings/issues/990
 ## Sherlock
 ### DODO GSP
 1. https://github.com/sherlock-audit/2023-12-dodo-gsp-judging/issues/56
