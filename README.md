@@ -36,6 +36,12 @@ All the vulnerabilities I identified in Code4rena, Sherlock, and CodeHawks.
 1. https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/860
 ### MorpheusAI
 1. https://www.codehawks.com/submissions/clrzgrole0007xtsq0gfdw8if/121
+### Tadle
+1. https://codehawks.cyfrin.io/c/2024-08-tadle/s/685
+2. https://codehawks.cyfrin.io/c/2024-08-tadle/s/889
+3. https://codehawks.cyfrin.io/c/2024-08-tadle/s/721
+4. https://codehawks.cyfrin.io/c/2024-08-tadle/s/796
+5. https://codehawks.cyfrin.io/c/2024-08-tadle/s/1148
 
 ### Beanstalk  - Beanstalk Part 2
 1. https://www.codehawks.com/submissions/clu7665bs0001fmt5yahc8tyh/15
