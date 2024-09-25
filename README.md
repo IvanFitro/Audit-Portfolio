@@ -18,6 +18,9 @@ All the vulnerabilities I identified in Code4rena, Sherlock, and CodeHawks.
 4. https://github.com/code-423n4/2024-07-traitforge-validation/issues/102
 5. https://github.com/code-423n4/2024-07-traitforge-findings/issues/890
 6. https://github.com/code-423n4/2024-07-traitforge-findings/issues/990
+### Phi
+1. https://github.com/code-423n4/2024-08-phi-validation/issues/98
+2. QA
 ## Sherlock
 ### DODO GSP
 1. https://github.com/sherlock-audit/2023-12-dodo-gsp-judging/issues/56
@@ -31,6 +34,9 @@ All the vulnerabilities I identified in Code4rena, Sherlock, and CodeHawks.
 1. https://github.com/sherlock-audit/2024-04-teller-finance-judging/issues/81
 ### MagicSea
 1. https://github.com/sherlock-audit/2024-06-magicsea-judging/issues/376
+### Winnables Raffles
+1. https://github.com/sherlock-audit/2024-08-winnables-raffles-judging/issues/338
+2. https://github.com/sherlock-audit/2024-08-winnables-raffles-judging/issues/161
 ## CodeHawks
 ### Foundry DeFi StableCoin
 1. https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/860
