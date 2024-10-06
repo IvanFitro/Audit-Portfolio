@@ -37,6 +37,9 @@ All the vulnerabilities I identified in Code4rena, Sherlock, and CodeHawks.
 ### Winnables Raffles
 1. https://github.com/sherlock-audit/2024-08-winnables-raffles-judging/issues/338
 2. https://github.com/sherlock-audit/2024-08-winnables-raffles-judging/issues/161
+### Boost Core Incentive Protocol
+1. https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues/13
+2. https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues/182
 ## CodeHawks
 ### Foundry DeFi StableCoin
 1. https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/860
