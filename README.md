@@ -2,6 +2,7 @@
 All the vulnerabilities I identified in Code4rena, Sherlock, and CodeHawks.
 
 ## Code4rena
+### Ethena Labs
 1. https://github.com/code-423n4/2023-10-ethena-findings/blob/main/data/Fitro-Q.md
 ### NextGen
 1. https://github.com/code-423n4/2023-10-nextgen-findings/issues/320
