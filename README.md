@@ -20,7 +20,7 @@ All the vulnerabilities I identified in Code4rena, Sherlock, and CodeHawks.
 6. https://github.com/code-423n4/2024-07-traitforge-findings/issues/990
 ### Phi
 1. https://github.com/code-423n4/2024-08-phi-validation/issues/98
-2. QA
+2. https://github.com/code-423n4/2024-08-phi-findings/blob/main/data/Fitro-Q.md
 ## Sherlock
 ### DODO GSP
 1. https://github.com/sherlock-audit/2023-12-dodo-gsp-judging/issues/56
