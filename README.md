@@ -55,5 +55,10 @@ All the vulnerabilities I identified in Code4rena, Sherlock, and CodeHawks.
 4. https://codehawks.cyfrin.io/c/2024-08-tadle/s/796
 5. https://codehawks.cyfrin.io/c/2024-08-tadle/s/1148
 
+## Cantina
+### Coinbase / spend-permissions
+1. https://cantina.xyz/code/6837e02a-0a87-4577-a047-4e1ea71cff01/findings/111
+2. https://cantina.xyz/code/6837e02a-0a87-4577-a047-4e1ea71cff01/findings/243
+
 
 
