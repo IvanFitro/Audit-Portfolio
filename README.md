@@ -1,7 +1,7 @@
 # Audit-Portfolio
 All the vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Cantina.
 
-## Code4rena
+## ----------------------------------------------Code4rena----------------------------------------------
 ### Ethena Labs
 1. https://github.com/code-423n4/2023-10-ethena-findings/blob/main/data/Fitro-Q.md
 ### NextGen
@@ -22,7 +22,7 @@ All the vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Canti
 ### Phi
 1. https://github.com/code-423n4/2024-08-phi-validation/issues/98
 2. https://github.com/code-423n4/2024-08-phi-findings/blob/main/data/Fitro-Q.md
-## Sherlock
+## -----------------------------------------------Sherlock-----------------------------------------------
 ### DODO GSP
 1. https://github.com/sherlock-audit/2023-12-dodo-gsp-judging/issues/56
 ### Truflation
@@ -31,7 +31,7 @@ All the vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Canti
 1. https://github.com/sherlock-audit/2024-01-telcoin-judging/issues/33
 2. https://github.com/sherlock-audit/2024-01-telcoin-judging/issues/18
 3. https://github.com/sherlock-audit/2024-01-telcoin-judging/issues/6
-## Teller Finance
+### Teller Finance
 1. https://github.com/sherlock-audit/2024-04-teller-finance-judging/issues/81
 ### MagicSea
 1. https://github.com/sherlock-audit/2024-06-magicsea-judging/issues/376
@@ -41,7 +41,9 @@ All the vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Canti
 ### Boost Core Incentive Protocol
 1. https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues/13
 2. https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues/182
-## CodeHawks
+### Superfluid Locker System
+1. https://github.com/sherlock-audit/2024-11-superfluid-locking-contract-judging/issues/27
+## ---------------------------------------------CodeHawks---------------------------------------------
 ### Foundry DeFi StableCoin
 1. https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/860
 ### MorpheusAI
@@ -55,7 +57,7 @@ All the vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Canti
 4. https://codehawks.cyfrin.io/c/2024-08-tadle/s/796
 5. https://codehawks.cyfrin.io/c/2024-08-tadle/s/1148
 
-## Cantina
+## ------------------------------------------------Cantina------------------------------------------------
 ### Coinbase / spend-permissions
 1. https://cantina.xyz/code/6837e02a-0a87-4577-a047-4e1ea71cff01/findings/111
 2. https://cantina.xyz/code/6837e02a-0a87-4577-a047-4e1ea71cff01/findings/243
