@@ -43,6 +43,8 @@ All the vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Canti
 2. https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues/182
 ### Superfluid Locker System
 1. https://github.com/sherlock-audit/2024-11-superfluid-locking-contract-judging/issues/27
+### Ethos Network Social Contracts
+1. https://github.com/sherlock-audit/2024-10-ethos-network-judging/issues/90
 ## ---------------------------------------------CodeHawks---------------------------------------------
 ### Foundry DeFi StableCoin
 1. https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/860
