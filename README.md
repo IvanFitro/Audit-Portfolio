@@ -58,6 +58,8 @@ All the vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Canti
 3. https://codehawks.cyfrin.io/c/2024-08-tadle/s/721
 4. https://codehawks.cyfrin.io/c/2024-08-tadle/s/796
 5. https://codehawks.cyfrin.io/c/2024-08-tadle/s/1148
+### One World
+1. https://codehawks.cyfrin.io/c/2024-11-one-world/s/603
 
 ## ------------------------------------------------Cantina------------------------------------------------
 ### Coinbase / spend-permissions
