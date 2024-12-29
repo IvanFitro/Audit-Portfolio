@@ -45,6 +45,9 @@ All the vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Canti
 1. https://github.com/sherlock-audit/2024-11-superfluid-locking-contract-judging/issues/27
 ### Ethos Network Social Contracts
 1. https://github.com/sherlock-audit/2024-10-ethos-network-judging/issues/90
+### Oku's New Order Types Contract Contest
+1. https://github.com/sherlock-audit/2024-11-oku-judging/issues/562
+2. https://github.com/sherlock-audit/2024-11-oku-judging/issues/677
 ## ---------------------------------------------CodeHawks---------------------------------------------
 ### Foundry DeFi StableCoin
 1. https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/860
