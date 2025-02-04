@@ -22,6 +22,9 @@ All the vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Canti
 ### Phi
 1. https://github.com/code-423n4/2024-08-phi-validation/issues/98
 2. https://github.com/code-423n4/2024-08-phi-findings/blob/main/data/Fitro-Q.md
+### LamboWin
+1. https://code4rena.com/audits/2024-12-lambowin/submissions/S-189
+2. https://code4rena.com/audits/2024-12-lambowin/submissions/S-188
 ## -----------------------------------------------Sherlock-----------------------------------------------
 ### DODO GSP
 1. https://github.com/sherlock-audit/2023-12-dodo-gsp-judging/issues/56
