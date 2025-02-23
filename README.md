@@ -1,5 +1,5 @@
 # Audit-Portfolio
-All the vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Cantina.
+All valid vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Cantina.
 
 ## ----------------------------------------------Code4rena----------------------------------------------
 ### Ethena Labs
