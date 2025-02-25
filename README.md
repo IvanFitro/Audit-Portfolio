@@ -73,7 +73,9 @@ All valid vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Can
 5. https://codehawks.cyfrin.io/c/2024-08-tadle/s/1148
 ### One World
 1. https://codehawks.cyfrin.io/c/2024-11-one-world/s/603
-
+### QuantAMM
+1. https://codehawks.cyfrin.io/c/2024-12-quantamm/s/170
+2. https://codehawks.cyfrin.io/c/2024-12-quantamm/s/322
 ## ------------------------------------------------Cantina------------------------------------------------
 ### Coinbase / spend-permissions
 1. https://cantina.xyz/code/6837e02a-0a87-4577-a047-4e1ea71cff01/findings/111
