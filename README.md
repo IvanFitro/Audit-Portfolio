@@ -34,7 +34,7 @@ All valid vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Can
 ## -----------------------------------------------Sherlock-----------------------------------------------
 ### DODO GSP
 1. https://github.com/sherlock-audit/2023-12-dodo-gsp-judging/issues/56
-2. https://code4rena.com/audits/2024-11-concrete/submissions/S-28
+
 ### Truflation
 1. https://github.com/sherlock-audit/2023-12-truflation-judging/issues/100
 ### Telecoin Plataform Audit
