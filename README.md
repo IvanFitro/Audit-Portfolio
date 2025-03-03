@@ -31,6 +31,9 @@ All valid vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Can
 3. https://code4rena.com/audits/2024-11-concrete/submissions/S-28
 4. https://code4rena.com/audits/2024-11-concrete/submissions/S-8
 5. https://code4rena.com/audits/2024-11-concrete/submissions/S-6
+### LiquidRon
+1.https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-499
+2.https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-161
 ## -----------------------------------------------Sherlock-----------------------------------------------
 ### DODO GSP
 1. https://github.com/sherlock-audit/2023-12-dodo-gsp-judging/issues/56
