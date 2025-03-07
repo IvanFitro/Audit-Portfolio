@@ -32,9 +32,8 @@ All valid vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Can
 4. https://code4rena.com/audits/2024-11-concrete/submissions/S-8
 5. https://code4rena.com/audits/2024-11-concrete/submissions/S-6
 ### LiquidRon
-1.https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-499
-2.https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-161
-
+1. https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-499
+2. https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-161
 ## -----------------------------------------------Sherlock-----------------------------------------------
 ### DODO GSP
 1. https://github.com/sherlock-audit/2023-12-dodo-gsp-judging/issues/56
@@ -62,6 +61,8 @@ All valid vulnerabilities I identified in Code4rena, Sherlock, CodeHawks and Can
 ### Oku's New Order Types Contract Contest
 1. https://github.com/sherlock-audit/2024-11-oku-judging/issues/562
 2. https://github.com/sherlock-audit/2024-11-oku-judging/issues/677
+### Rova
+1. https://github.com/sherlock-audit/2025-02-rova-judging/issues/39
 ## ---------------------------------------------CodeHawks---------------------------------------------
 ### Foundry DeFi StableCoin
 1. https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/860
