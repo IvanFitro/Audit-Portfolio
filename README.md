@@ -8,12 +8,12 @@ A curated collection of confirmed vulnerabilities and findings I have submitted 
 
 | Platform   | Total Issues Found |
 |------------|--------------------|
-| Code4rena  | 21                 |
+| Code4rena  | 22                 |
 | Sherlock   | 16                 |
 | CodeHawks  | 11                 |
 | Cantina    | 2                  |
 
-> **Total Issues Across All Platforms: 50**
+> **Total Issues Across All Platforms: 51**
 
 
 ## 🛡️ Code4rena
@@ -58,6 +58,9 @@ A curated collection of confirmed vulnerabilities and findings I have submitted 
 ### **LiquidRon**
 - [Issue #499](https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-499)
 - [Issue #161](https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-161)
+
+### **Silo Finance**
+- [Issue #57](https://code4rena.com/audits/2025-03-silo-finance/submissions/F-57)
 
 ---
 
